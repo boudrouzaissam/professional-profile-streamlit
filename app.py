@@ -102,8 +102,7 @@ st.caption("A quantitative dashboard presenting the structure, evolution, and co
 
 st.markdown(
     """
-This dashboard presents my professional profile as a **model**. It is not a simple translation of a document and it is not limited to one job title.
-
+This dashboard presents my professional profile as a model.
 The objective is to show how different dimensions of my background — education, experience, analytical capacity, technical skills, communication, creativity, and project-oriented work — interact to build a coherent professional profile over time.
 """
 )
